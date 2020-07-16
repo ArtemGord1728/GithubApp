@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_str">Login: %1$s</string>
+    <string name="bio_str">Bio: %1$s</string>
+</resources>
